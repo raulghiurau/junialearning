@@ -3,7 +3,7 @@ var documents = [{
     "id": 0,
     "url": "http://localhost:4000/jekyll-theme-memoirs/404.html",
     "title": "404",
-    "body": "404 Page not found!!!Please use the search bar from the bottom left or visit our homepage! "
+    "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
     "url": "http://localhost:4000/jekyll-theme-memoirs/about",
@@ -31,7 +31,7 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/page2/",
     "title": "Home",
     "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
