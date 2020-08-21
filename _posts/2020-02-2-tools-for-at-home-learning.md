@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Summer tools for at home learning"
-author: Miriam
+title:  "Tools for at home learning"
+author: MG
 categories: [ Education ]
-tags: [ France ]
+tags: [ tutor ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
