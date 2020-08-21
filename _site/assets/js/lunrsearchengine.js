@@ -7,7 +7,7 @@ var documents = [{
     }, {
     "id": 1,
     "url": "http://localhost:4000/about",
-    "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
+    "title": "Junia Learning, making learning simple",
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
     "id": 2,
